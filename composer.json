@@ -1,0 +1,11 @@
+{
+    "name": "jfechaves/gposolucoes",
+    "description": "Website GPO Soluções",
+    "authors": [
+        {
+            "name": "Jeferson Chaves",
+            "email": "jfechaves@gmail.com"
+        }
+    ],
+    "require": {}
+}
